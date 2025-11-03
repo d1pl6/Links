@@ -2,15 +2,15 @@
 > 
 > I'm using 90% of theese apps (first of every). 
 > 
-> That's a Top (top1:orobot,top2:Windscribe... etc).
+> That's a Top (top1:orobot, top2:Windscribe... etc).
 > 
 > Content:
-> > [Android](#android)
+> > ###### [Android](#android)
 > - [vpn](#vpn), [playstore](#playstore), [maps](#maps), [mails](#mails), [passmanager](#passmanager), [keyboards](#keyboards), [cloud storage](#cloud-storage), [readers](#readers), [device find](#device-find)
-> > [Windows](#windows)
+> > ###### [Windows](#windows)
 > - [Flash boot](#flash-boot)
-> > [useful founds](#useful-founds)
-> > [Notes](#notes)
+> > ###### [Useful founds](#useful-founds)
+> ###### [Notes](#notes)
 
 ## Android:
 ### vpn:
@@ -20,11 +20,15 @@ Windscribe (or mullvad)
 
 protonvpn
 
-### playstore:
+### apps store:
+f-droid
+zapstore
 aurora store
 
 ### maps:
-Organic Maps
+Organic Maps (or CoMaps)
+
+Magic Earth (for navigation)
 
 ### mails:
 protonmail
@@ -37,7 +41,7 @@ bitwarden
 keepassdx
 
 ### keyboards:
-https://voiceinput.futo.org + https://keyboard.futo.org
+[futo](https://keyboard.futo.org) + [voice input](https://voiceinput.futo.org)
 
 heliboard
 
@@ -45,6 +49,8 @@ FlorisBoard
 
 ### cloud storage:
 https://koofr.eu
+
+mega
 
 ### readers:
 kotatsu + kitsu
@@ -60,28 +66,28 @@ https://rufus.ie/en
 
 https://etcher.balena.io
 
-## useful founds:
-microG: https://github.com/microg/GmsCore/wiki/Downloads
+## Useful founds:
+[microG](https://github.com/microg/GmsCore/wiki/Downloads)
 
-URLCheck: https://github.com/TrianguloY/URLCheck
+[URLCheck](https://github.com/TrianguloY/URLCheck)
 
-internet traffic noise generator for Android: https://github.com/umutcamliyurt/MockTraffic
+[internet traffic noise generator for Android](https://github.com/umutcamliyurt/MockTraffic)
 
-key for passkeys/fido2/u2f authentication: https://codeberg.org/s1m/hw-fido2-provider
+[key for passkeys/fido2/u2f authentication](https://codeberg.org/s1m/hw-fido2-provider)
 
-watch content (youtube, twitch, kick, etc): https://grayjay.app
+[watch content (youtube, twitch, kick, etc)](https://grayjay.app)
 
-math solver (full offline in app + online web): https://www.geogebra.org
+[math solver (full offline in app + online web)](https://www.geogebra.org)
 
-Photo & Video & Documents Storage: https://crypt.ee
+[Photo & Video & Documents Storage](https://crypt.ee)
 
-private workspace (Just notes): https://notesnook.com
+[private workspace (Just notes)](https://notesnook.com)
 
-disk encryption software for Windows, Mac OSX and Linux: https://veracrypt.io
+[disk encryption software for Windows, Mac OSX and Linux](https://veracrypt.io)
 
 
 # Notes
-I'm trying to don't use vpn. So i can't make top, so search if you need (mullvad is not for streaming (netflix, etc) as example).
+I'm trying not to use vpn. So i can't make top, so search if you need (mullvad is not for streaming (netflix, etc) as example).
 
 Browser: for shure Brave. I'm using 1. Firefox 2. Tor. 3. Librewolf if needed. https://privacytests.org
 
