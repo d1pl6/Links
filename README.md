@@ -1,6 +1,6 @@
 > I'm tried of searching. All links in 1 place. 
 > 
-> I'm using 90% of theese apps (first of every). 
+> I'm using 90% of theese apps. 
 > 
 > That's a Top (top1:orobot, top2:Windscribe... etc).
 > 
@@ -14,76 +14,58 @@
 
 ## Android:
 ### vpn:
-orobot
-
-Windscribe (or mullvad)
-
-protonvpn
+- [orobot](https://orbot.app)
+- [Windscribe](https://windscribe.com) (or [mullvad](https://mullvad.net))
+- [protonvpn](https://protonvpn.com)
 
 ### apps store:
-f-droid
-zapstore
-aurora store
+- [f-droid](https://f-droid.org)
+- [zapstore](https://zapstore.dev)
+- [aurora store](https://auroraoss.com/aurora-store)
 
 ### maps:
-Organic Maps (or CoMaps)
-
-Magic Earth (for navigation)
+- [Organic Maps](https://organicmaps.app) (or [CoMaps](https://www.comaps.app))
+- [Magic Earth](https://www.magicearth.com) (better navigation)
 
 ### mails:
-protonmail
-
-tuta
+- [protonmail](https://mail.proton.me)
+- [tuta](https://tuta.com)
 
 ### passmanager:
-bitwarden
-
-keepassdx
+- [bitwarden](https://bitwarden.com)
+- [keepassdx](https://www.keepassdx.com)
 
 ### keyboards:
-[futo](https://keyboard.futo.org) + [voice input](https://voiceinput.futo.org)
-
-heliboard
-
-FlorisBoard
+- [futo](https://keyboard.futo.org) + [voice input](https://voiceinput.futo.org)
+- [heliboard](https://github.com/Helium314/HeliBoard)
+- [FlorisBoard](https://github.com/florisboard/florisboard)
 
 ### cloud storage:
-https://koofr.eu
-
-mega
+- [koofr](https://koofr.eu)
+- [mega](https://mega.io)
 
 ### readers:
-kotatsu + kitsu
+- [kotatsu](https://github.com/KotatsuApp/Kotatsu) + kitsu
 
 ### device find:
 
 
 ## Windows:
 ### Flash boot:
-https://github.com/ventoy/Ventoy
-
-https://rufus.ie/en
-
-https://etcher.balena.io
+- [Ventoy](https://github.com/ventoy/Ventoy)
+- [rufus (win only)](https://rufus.ie)
+- [balenaEtcher](https://etcher.balena.io)
 
 ## Useful founds:
-[microG](https://github.com/microg/GmsCore/wiki/Downloads)
-
-[URLCheck](https://github.com/TrianguloY/URLCheck)
-
-[internet traffic noise generator for Android](https://github.com/umutcamliyurt/MockTraffic)
-
-[key for passkeys/fido2/u2f authentication](https://codeberg.org/s1m/hw-fido2-provider)
-
-[watch content (youtube, twitch, kick, etc)](https://grayjay.app)
-
-[math solver (full offline in app + online web)](https://www.geogebra.org)
-
-[Photo & Video & Documents Storage](https://crypt.ee)
-
-[private workspace (Just notes)](https://notesnook.com)
-
-[disk encryption software for Windows, Mac OSX and Linux](https://veracrypt.io)
+- [microG](https://github.com/microg/GmsCore/wiki/Downloads)
+- [URLCheck](https://github.com/TrianguloY/URLCheck)
+- [internet traffic noise generator for Android](https://github.com/umutcamliyurt/MockTraffic)
+- [key for passkeys/fido2/u2f authentication](https://codeberg.org/s1m/hw-fido2-provider)
+- [watch content (youtube, twitch, kick, etc)](https://grayjay.app)
+- [math solver (full offline in app + online web)](https://www.geogebra.org)
+- [Photo & Video & Documents Storage](https://crypt.ee)
+- [private workspace (Just notes)](https://notesnook.com)
+- [disk encryption software for Windows, Mac OSX and Linux](https://veracrypt.io)
 
 
 # Notes
