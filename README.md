@@ -1,3 +1,4 @@
+I'll add some more info for every app in one day. maybe. idk.
 > I'm tried of searching. All links in 1 place. 
 > 
 > I'm using 90% of theese apps. 
