@@ -1,57 +1,88 @@
 I'll add some more info for every app in one day. maybe. idk.
 > I'm tried of searching. All links in 1 place. 
 > 
-> I'm using 90% of theese apps. 
+> I'm using 90% of these aps. 
 > 
 > That's a Top (top1:orobot, top2:Windscribe... etc).
 > 
 > Content:
-> > ###### [Android](#android)
-> - [vpn](#vpn), [playstore](#playstore), [maps](#maps), [mails](#mails), [passmanager](#passmanager), [keyboards](#keyboards), [cloud storage](#cloud-storage), [readers](#readers), [device find](#device-find)
-> > ###### [Windows](#windows)
+> > **[Android](#android)**
+> - [VPN](#vpn), [App store](#app-store), [Maps](#maps), [Mails](#mails), [Passmanager](#passmanager), [Keyboard](#keyboard), [Cloud storage](#cloud-storage), [Readers](#readers), [Device find](#device-find), [SMS, Contacts, Calls](#sms-contacts-calls), [Gallery](#gallery), [Calendar](#calendar), [Calculator](#calculator), [Clock](#clock), [Weather](#weather)
+> > **[Windows](#windows)**
 > - [Flash boot](#flash-boot)
-> > ###### [Useful founds](#useful-founds)
-> ###### [Notes](#notes)
+> > **[Useful founds](#useful-founds)**\
+> **[Notes](#notes)**
 
-## Android:
-### vpn:
+## Android
+### VPN:
 - [orobot](https://orbot.app)
 - [Windscribe](https://windscribe.com) (or [mullvad](https://mullvad.net))
 - [protonvpn](https://protonvpn.com)
 
-### apps store:
+### App store:
 - [f-droid](https://f-droid.org)
 - [zapstore](https://zapstore.dev)
 - [aurora store](https://auroraoss.com/aurora-store)
 
-### maps:
+### Maps:
 - [Organic Maps](https://organicmaps.app) (or [CoMaps](https://www.comaps.app))
 - [Magic Earth](https://www.magicearth.com) (better navigation)
 
-### mails:
+### Mails:
 - [protonmail](https://mail.proton.me)
 - [tuta](https://tuta.com)
 
-### passmanager:
+### Passmanager:
 - [bitwarden](https://bitwarden.com)
 - [keepassdx](https://www.keepassdx.com)
 
-### keyboards:
+### Keyboard:
 - [futo](https://keyboard.futo.org) + [voice input](https://voiceinput.futo.org)
 - [heliboard](https://github.com/Helium314/HeliBoard)
 - [FlorisBoard](https://github.com/florisboard/florisboard)
 
-### cloud storage:
+### Cloud storage:
 - [koofr](https://koofr.eu)
 - [mega](https://mega.io)
 
-### readers:
+### Readers:
 - [kotatsu](https://github.com/KotatsuApp/Kotatsu) + kitsu
+- [Book's Story](https://github.com/Acclorite/book-story) (noob)
+- [Librera](https://librera.mobi) (pro)
 
-### device find:
+### Device find:
 
+### SMS, Contacts, Calls:
+- [Fossify Messages](https://github.com/FossifyOrg/Messages)
+- [quik](https://github.com/octoshrimpy/quik?tab=readme-ov-file)
+- [Fossify Contacts](https://github.com/FossifyOrg/Contacts)
+- [Fossify Phone](https://github.com/FossifyOrg/Phone)
+- [Koler (phone)](https://github.com/Chooloo/koler)
 
-## Windows:
+- [DAVx5](https://www.davx5.com) (Sync)
+
+### Gallery:
+- [ente](https://ente.io)
+- [Gallery](https://github.com/IacobIonut01/Gallery)
+- [Fossify Gallery](https://github.com/FossifyOrg/Gallery)
+
+### Calendar:
+- [Business Calendar 2](https://www.appgenix-software.com) or [One Calendar](https://www.onecalendar.nl) or aCalendar+ (paid)
+- [Fossify Calendar](https://github.com/FossifyOrg/Calendar)
+
+### Calculator:
+- [Mobi](https://mobicalc.com)
+- HiPER calc
+
+### Clock:
+- [BlackyHawky Clock](https://github.com/BlackyHawky/Clock)
+- [Chronos](https://github.com/meenbeese/Chronos)
+- [Flossy Clock](https://github.com/FossifyOrg/Clock)
+
+### Weather:
+- [breezy](https://github.com/breezy-weather/breezy-weather)
+
+## Windows
 ### Flash boot:
 - [Ventoy](https://github.com/ventoy/Ventoy)
 - [rufus (win only)](https://rufus.ie)
@@ -67,6 +98,7 @@ I'll add some more info for every app in one day. maybe. idk.
 - [Photo & Video & Documents Storage](https://crypt.ee)
 - [private workspace (Just notes)](https://notesnook.com)
 - [disk encryption software for Windows, Mac OSX and Linux](https://veracrypt.io)
+- [Voice recorder](https://f-droid.org/en/packages/org.codeberg.genericpers0n.soundrecorderplus)
 
 
 # Notes
@@ -74,4 +106,6 @@ I'm trying not to use vpn. So i can't make top, so search if you need (mullvad i
 
 Browser: for shure Brave. I'm using 1. Firefox 2. Tor. 3. Librewolf if needed. https://privacytests.org
 
-Android: LibeageOS on xiaomi mi a3 (android 16) + microg services for camera+location. But i wan't LineageOS for shure.
+Android os: LibeageOS on xiaomi mi a3 (android 16) + microg services for camera+location. But i wan't LineageOS for shure.
+
+Fossify: A fork of @SimpleMobileTools (Simple Mobile Tools bought by ZipoApps)
