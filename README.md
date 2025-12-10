@@ -47,8 +47,8 @@ I'll add some more info for every app in one day. maybe. idk.
 
 ### Readers:
 - [kotatsu](https://github.com/KotatsuApp/Kotatsu) + kitsu
-- [Book's Story](https://github.com/Acclorite/book-story) (noob)
-- [Librera](https://librera.mobi) (pro)
+- [FBReader](https://fbreader.org/android#download)
+- [Librera](https://librera.mobi)
 
 ### Device find:
 
